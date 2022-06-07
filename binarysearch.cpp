@@ -22,7 +22,6 @@ int Myfunction(int a[],int N,int beg,int end,int size){
 }
 
 int main(){
-    cout<<"The elements of an array in which we have to find an element: "<<endl;
     int a[10]={10,20,25,29,30,37,40,45,48,50};
     int n;
     cout<<"Enter the element to search from a given list of array: ";
